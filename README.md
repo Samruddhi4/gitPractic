@@ -1,1 +1,2 @@
 # gitPractic
+this is practic
